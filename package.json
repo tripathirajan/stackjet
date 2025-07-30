@@ -4,6 +4,15 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "framework",
+    "nx",
+    "monorepo",
+    "backend",
+    "modular"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@nx/js": "21.3.9",
